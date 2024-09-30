@@ -14,8 +14,7 @@ After five weeks of mastering different machine learning algorithms through the 
 
 ## Dataset 📈
 
-You will use a rainfall dataset sourced from the Australian Government's Bureau of Meteorology. Alternatively, you can download your data from this link.
-
+You will use a rainfall dataset sourced from the Australian Government's Bureau of Meteorology.
 ## Algorithms Used 🤖
 
 You are expected to implement the following algorithms:
